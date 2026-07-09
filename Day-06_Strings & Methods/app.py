@@ -109,7 +109,7 @@ print("A\tB".expandtabs(4))
 
 
 # 8. find()
-# Definition: Returns the first index of the substring; -1 if not found.
+# Definition: The find() method returns the index of the first occurrence of the specified character or substring.
 print("banana".find('a'))
 # Output: 1
 
